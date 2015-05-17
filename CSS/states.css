@@ -1,0 +1,5 @@
+/* Colors of links when in a hover state */
+
+li:hover {
+  color:blue;
+}

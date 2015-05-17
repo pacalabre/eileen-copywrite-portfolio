@@ -1,0 +1,70 @@
+/*background from http://subtlepatterns.com/*/
+
+body {
+  background-image: url("http://i.imgur.com/DxzjMS8.png");
+  min-height:100%;
+  background-attachment: fixed;
+  background-position: center center;
+}
+
+/*section, header, and paragraph styling*/
+
+section {
+  height:700px;
+}
+
+h1{
+  font-family: poiret one;
+  opacity:.8;
+  font-size:75px;
+  text-align:center;
+  padding:1px;
+  margin:25px 5px;
+}
+
+h3{
+  opacity:.7;
+  font-size: 25px;
+  text-align: center;
+  font-family:poiret one
+}
+
+h4 {
+  text-align:center;
+}
+
+p {
+  margin:2.5em;
+ font-size:18px;
+  opacity:.8;
+  font-family:courier new;
+}
+
+/*Link and List Item Styles*/
+
+a{
+  text-decoration:none;
+  color:inherit;
+}
+
+li {
+  font-family:poiret one;
+  opacity:.7;
+  text-align:center;
+  font-size:25px;
+  display:inline;
+  margin:.45em;
+}
+
+/*Footer Styles*/
+
+footer {
+  height: 200px;
+  margin-top: 5em;
+}
+
+/*Social Media Link Spacing*/
+
+.socialMedia{
+  margin:1em;
+}
